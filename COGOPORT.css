@@ -1051,9 +1051,3 @@ p{
 .outer{
     width: 100%;
 }
-@media (max-width: 576px){
-.outer{
-    display: flex;
-    flex-direction: column-reverse;
-}
-}
